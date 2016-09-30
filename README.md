@@ -25,7 +25,7 @@ sample-annotation-processor/
 
 ## Import sample project in Eclipse
 
-1. From command line execute `git clone ...`
+1. From command line execute `git clone https://github.com/ifedorenko/com.ifedorenko.sample-annotation-processor.git`
 2. From Eclipse, Import, Existing Maven Projects, select location of the sample project
    * this may need to "download the Internet", which takes time
 3. Optionally, import test project as Existing Project (i.e. it is not Maven) 
